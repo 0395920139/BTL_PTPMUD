@@ -1,0 +1,23 @@
+{
+    "id": "44ae4bf2-00da-4658-97d6-379c3332aba1",
+    "created_at": 1602559162403,
+    "created_by": null,
+    "created_by_name": null,
+    "updated_at": 1602847413592,
+    "updated_by": null,
+    "updated_by_name": null,
+    "deleted": false,
+    "deleted_at": 0,
+    "deleted_by": null,
+    "deleted_by_name": null,
+    "start_time": 1601525559000,
+    "end_time": 1602303218000,
+    "do_not_distrub": false,
+    "extra_data": [],
+    "people_number": 11,
+    "note": null,
+    "checkout": null,
+    "contact_id": "8a032bd3-1302-4378-b112-03a7786cefd0",
+    "room_id": "61f82999-cb13-49ad-b82d-a1573482193d",
+    "tenant_id": "furama"
+}

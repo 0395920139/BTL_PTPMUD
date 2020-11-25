@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "manage.py", line 4, in <module>
+    from application.database import db
+  File "/home/coder/Documents/workspace/FuramaWebServer/repo/application/__init__.py", line 2, in <module>
+    from .server import app
+  File "/home/coder/Documents/workspace/FuramaWebServer/repo/application/server.py", line 3, in <module>
+    from gatco import Gatco
+ImportError: No module named gatco

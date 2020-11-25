@@ -1,0 +1,30 @@
+aiofiles
+alembic
+manage.py
+PyYAML
+sanic==19.9.0
+sanic_cors
+sanic-useragent
+jinja2
+git+https://github.com/gonrin/gatco.git
+git+https://github.com/gonrin/gatco_auth.git
+git+https://github.com/gonrin/gatco_jinja2.git
+git+https://github.com/gonrin/gatco_sqlalchemy.git
+git+https://github.com/gonrin/gatco_restapi.git
+git+https://github.com/gonrin/gatco_acl.git
+SQLAlchemy
+ujson
+websockets
+passlib
+psycopg2-binary
+schedule
+requests
+plotly
+pytz
+aiohttp
+# barcode dependences
+python-barcode
+pillow
+# international phone detect
+phonenumbers
+firebase-admin
