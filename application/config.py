@@ -3,11 +3,11 @@ class Config(object):
     ENVIRONMENT = 'development' # production, staging, development
     DEVELOPMENT_MODE = True
     RELEASE_VERSION = '1.0.1'
-    SQLALCHEMY_DATABASE_URI = 'postgresql://furamadevuser:4ohwzrvzskos050xt5csh9gcq6ruy99s@localhost:5432/furamadev'
+    SQLALCHEMY_DATABASE_URI = 'postgresql://schedule_exuser:123456@localhost:5432/schedule'
 
-    DEMAIN = 'https://upstart.vn'
-    HOST = 'https://upstart.vn/furama'
-    STATIC_URL = 'static'
+    # DEMAIN = 'https://upstart.vn'
+    # HOST = 'https://upstart.vn/furama'
+    # STATIC_URL = 'static'
 
     REQUEST_TIMEOUT = 86400
     RESPONSE_TIMEOUT = 86400
